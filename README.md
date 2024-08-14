@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Saurav Upare</h1>
 <h3 align="center">A passionate in Astrophysicist and Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://www.stsci.edu/files/live/sites/www/files/home/_images/gallery-items/westerlund-2.jpg?t=tn2400">
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/114/114917.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravuparon&label=Profile%20views&color=0e75b6&style=flat" alt="sauravuparon" /> </p>
 
