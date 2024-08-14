@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkqNhaAGdc93JIx3pxAXBwSgjG7uxFa02UEevvtbfe8z0lRcKLWf9VDtYD1oplxORw_6s&usqp=CAU)](https://rishavchanda.io)
+[![MasterHead](https://earthsky.org/upl/2022/02/black-holes-orbit-Caltech-R-Hurt-IPAC-800-px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Saurav Upare</h1>
 <h3 align="center">A passionate in Astrophysicist and Data Scientist</h3>
