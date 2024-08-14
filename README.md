@@ -1,13 +1,10 @@
-[![MasterHead](https://sayostudio.com/wp-content/uploads/2020/02/gravity-waves-LIGO-red-1536x1038.jpg)](https://rishavchanda.io]
+[![MasterHead](https://sayostudio.com/wp-content/uploads/2020/02/gravity-waves-LIGO-red-1536x1038.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Saurav Upare</h1>
 <h3 align="center">A passionate in Astrophysicist and Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F4832731-astrophysicist-scientist-using-telescope-concept&psig=AOvVaw2VO0rsfpSEwgOiTDqLcErP&ust=1723748952226000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiZtY2xl_WHAxUOb2wGHbNQGmcQjRx6BAgAEBg”>
-
+<img align="right" alt="Coding" width="400" src="https://www.stsci.edu/files/live/sites/www/files/home/_images/gallery-items/westerlund-2.jpg?t=tn2400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravuparon&label=Profile%20views&color=0e75b6&style=flat" alt="sauravuparon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sauravuparon" alt="sauravuparon" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
