@@ -1,4 +1,4 @@
-[![MasterHead](https://sayostudio.com/wp-content/uploads/2020/02/gravity-waves-LIGO-red-1536x1038.jpg)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkqNhaAGdc93JIx3pxAXBwSgjG7uxFa02UEevvtbfe8z0lRcKLWf9VDtYD1oplxORw_6s&usqp=CAU)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Saurav Upare</h1>
 <h3 align="center">A passionate in Astrophysicist and Data Scientist</h3>
