@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ALfeven Cyclotron-waves & Gravity-Spy project**
+- 🔭 I’m currently working on **Gravity-Spy project**
 
 - 🌱 I’m currently learning **Linux, Java , and fullstack development**
 
-- 💬 Ask me about **Queries regarding Physics, ML,NLP,DeepLearning**
+- 💬 Ask me about **Queries regarding Physics, ML,NLP**
 
 - 📫 How to reach me **sauraoupare@gmail.com**
 
