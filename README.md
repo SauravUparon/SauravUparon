@@ -1,16 +1,16 @@
 [![MasterHead](https://earthsky.org/upl/2022/02/black-holes-orbit-Caltech-R-Hurt-IPAC-800-px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Saurav Upare</h1>
-<h3 align="center">A passionate in Astrophysicist and Data Scientist</h3>
+<h3 align="center">A passionate researcher in Astrophysic and Data Analytics</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/114/114917.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravuparon&label=Profile%20views&color=0e75b6&style=flat" alt="sauravuparon" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Gravity-Spy project**
+- 🔭 I’m currently working on **Plasma astrophysics**
 
-- 🌱 I’m currently learning **Linux, Java , and fullstack development**
+- 🌱 I’m currently learning **Fortran90 and Plasma**
 
 - 💬 Ask me about **Queries regarding Physics, ML,NLP**
 
