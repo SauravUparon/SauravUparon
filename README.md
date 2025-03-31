@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Plasma astrophysics and DL CNN model on Gravitational Wave Glitches(GravitySpy)**
+- 🔭 I’m currently working on **Plasma astrophysics**
 
 - 🌱 I’m currently learning **Fortran90 and Plasma**
 
