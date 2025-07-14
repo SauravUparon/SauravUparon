@@ -4,15 +4,13 @@
 <h3 align="center">A passionate researcher in Astrophysic and Data Analytics</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/114/114917.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravuparon&label=Profile%20views&color=0e75b6&style=flat" alt="sauravuparon" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Plasma astrophysics**
+- 🔭 I’m currently working on **3D rMHD Simulation and Plasma astrophysics**
 
-- 🌱 I’m currently learning **Fortran90 and Plasma**
+- 🌱 I’m currently learning **Astrophysics and Astronomy**
 
-- 💬 Ask me about **Queries regarding Physics, ML,NLP**
+- 💬 Ask me about **Queries regarding Physics, ML,NLP,DL and DataAnalytics**
 
 - 📫 How to reach me **sauraoupare@gmail.com**
 
