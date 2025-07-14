@@ -4,7 +4,7 @@
 <h3 align="center">A passionate researcher in Astrophysic and Data Analytics</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/114/114917.gif">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sauravuparon&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nature.com%2Fcollections%2Fecjajdiaih&psig=AOvVaw2RRrMIcLXAm9xdwSWceunD&ust=1752582039280000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDL8I-rvI4DFQAAAAAdAAAAABAE)" alt="sauravuparon" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravuparon&label=Profile%20views&color=0e75b6&style=flat" alt="sauravuparon"/> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
